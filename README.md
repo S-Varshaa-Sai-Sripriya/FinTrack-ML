@@ -4,6 +4,8 @@ An intuitive and extensible command-line tool for tracking personal income and e
 
 ---
 
+https://github.com/user-attachments/assets/607d530c-89c0-4c54-a106-9d6ecf40c579
+
 ## 🚀 Features
 
 - ✅ Log income and expenses with **date**, **amount**, **category**, and **optional description**
