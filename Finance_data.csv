@@ -1,0 +1,19 @@
+Date,Amount,Category,Description
+06-04-25,1000.0,Income,Salary
+06-05-25,125.0,Income,Income
+06-04-25,250.0,Expense,Essentials
+06-08-25,300.0,Expense,Rent
+06-12-25,150.0,Income,Part-time pay
+06-14-25,80.0,Expense,Groceries
+06-16-25,120.0,Expense,Transport
+06-20-25,500.0,Income,Freelance project
+06-22-25,200.0,Expense,Utilities
+06-25-25,50.0,Expense,Subscriptions
+06-28-25,400.0,Income,Gift from family
+07-01-25,75.0,Expense,Internet bill
+07-04-25, 1000.0,Income,Salary
+07-05-25,600.0,Income,Freelance payment
+07-10-25,130.0,Expense,Medical
+07-15-25,220.0,Expense,Shopping
+07-08-25,20.0,Expense,Mall
+06-15-25,25.0,Expense,Food
