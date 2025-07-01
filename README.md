@@ -2,6 +2,9 @@
 
 An intuitive and extensible command-line tool for tracking personal income and expenses with real-time analytics and visual insights. This project empowers users to make informed financial decisions by logging transactions, analyzing spending patterns, and visualizing savings—all within a clean and interactive CLI experience.
 
+
+![FinTrackML](https://github.com/user-attachments/assets/a0d9c6b5-6a34-43c6-8b29-c7d779eb68c1)
+
 ---
 
 https://github.com/user-attachments/assets/607d530c-89c0-4c54-a106-9d6ecf40c579
