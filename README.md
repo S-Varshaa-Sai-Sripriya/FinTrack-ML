@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/607d530c-89c0-4c54-a106-9d6ecf40c579
 
 ---
 
+> 📚 This project is a learning-based implementation
+
 ## 🔐 Repository Info
 
 > This repository is a **public demo** showcasing insights, sample outputs, and visualizations from the Personal Finance Tracker project.  
